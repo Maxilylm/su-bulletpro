@@ -2,7 +2,7 @@
 
 > Rewrite resume bullet points against a specific job description for ATS keyword match.
 
-**[Live demo](https://su-bulletpro.vercel.app)**
+**[Live demo](https://bulletpro-mlx.vercel.app)**
 
 Generic resume bullets get filtered by applicant tracking systems before a human reads them. BulletPro takes the job description you're applying to alongside your raw bullets and returns rewrites that lead with strong action verbs, carry quantified metrics, and work in keywords pulled from the posting. Each rewrite sits next to its original with an explicit list of what changed and which keywords were added, so you can accept or reject the edit rather than trusting it blind.
 
@@ -32,4 +32,4 @@ Set `GROQ_API_KEY` in `.env.local`.
 
 ---
 
-Part of a series of 91 small web apps. [Browse them all](https://su-slopmachine.vercel.app).
+Part of a series of 91 small web apps. [Browse them all](https://lorenzoylosada.vercel.app).
